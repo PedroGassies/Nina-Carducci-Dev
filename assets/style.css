@@ -84,6 +84,7 @@ body {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 1rem;
 }
 #about-me p {
 	width: 80%;
@@ -239,6 +240,9 @@ form textarea {
 	line-height: 2.5em;
 	font-size: 1.2em;
 	margin-bottom: 20px;
+}
+form div{
+	width: 100%;
 }
 input[type="submit"] {
 	background-color: #BEB45A;
